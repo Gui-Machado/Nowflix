@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Review" section_id="54239868831043503a6114d0deaad362" sys_domain="global" table="x_1974925_nowflix_review" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>18239868831043503a6114d0deaad366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>94239868831043503a6114d0deaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>media</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>14239868831043503a6114d0deaad368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>90239868831043503a6114d0deaad369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>10239868831043503a6114d0deaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>9c239868831043503a6114d0deaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>1c239868831043503a6114d0deaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>5c239868831043503a6114d0deaad3aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>d8239868831043503a6114d0deaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reproval_reason</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_id>58239868831043503a6114d0deaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Review" display_value="Review" name="x_1974925_nowflix_review" sys_domain="global" view="Default view">54239868831043503a6114d0deaad362</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Review</caption>
+            <header>false</header>
+            <name>x_1974925_nowflix_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-13 14:08:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54239868831043503a6114d0deaad362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1974925_nowflix_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+            <sys_update_name>sys_ui_section_54239868831043503a6114d0deaad362</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-13 14:08:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
