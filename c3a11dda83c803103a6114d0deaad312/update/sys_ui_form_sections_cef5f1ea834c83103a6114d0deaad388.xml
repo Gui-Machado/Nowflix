@@ -42,6 +42,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-04-07 16:12:31</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-14 14:15:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>194e1d3c83d4c3503a6114d0deaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1974925_nowflix_media" name="x_1974925_nowflix_media" sys_domain="global" view="Default view">cef5f1ea834c83103a6114d0deaad388</sys_ui_form>
+            <sys_ui_section caption="Intregation" display_value="Intregation" name="x_1974925_nowflix_media" sys_domain="global" view="Default view">594e1d3c83d4c3503a6114d0deaad323</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-14 14:15:18</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1974925_nowflix_media</name>
             <roles/>
