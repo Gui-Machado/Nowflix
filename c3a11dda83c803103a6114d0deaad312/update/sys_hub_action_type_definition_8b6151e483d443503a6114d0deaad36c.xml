@@ -31,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8b6151e483d443503a6114d0deaad36c</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>Integration OMDb API</sys_name>
         <sys_overrides/>
         <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
@@ -39,7 +39,7 @@
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_8b6151e483d443503a6114d0deaad36c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:59</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:35</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -255,7 +255,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>544f59ec835843503a6114d0deaad3f3</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -263,7 +263,7 @@
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:56</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:32</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -390,10 +390,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:02:46</sys_created_on>
         <sys_id>267655ec831843503a6114d0deaad361</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-13 19:03:42</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:32</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=267655ec831843503a6114d0deaad361"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -611,9 +611,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:02:47</sys_created_on>
         <sys_id>ea7655ec831843503a6114d0deaad3a5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-13 19:02:47</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:32</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
         <value>{"type":"ADV_NV","value":[{"name":"apikey","value":"{{step[a0e8dc29-ee49-42f7-8f20-546654088705].apikey}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"t","value":"{{action.title}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"type","value":"{{action.type}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"y","value":"{{action.year}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"plot","value":"{{step[a0e8dc29-ee49-42f7-8f20-546654088705].plot}}","attributes":{"omit_if_empty":false,"mandatory":false}}]}</value>
     </sys_element_mapping>
@@ -1406,14 +1406,14 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 18:48:11</sys_created_on>
         <sys_id>b02355a0831843503a6114d0deaad37d</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:56</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1440,7 +1440,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7e787dbc8398c3503a6114d0deaad332</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1448,7 +1448,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:56</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:32</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_action_output action="INSERT_OR_UPDATE">
@@ -1735,17 +1735,17 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Integration OMDb API">8b6151e483d443503a6114d0deaad36c</action_id>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"24212124839843503a6114d0deaad3d7","name":"plan","plan_signature":null}}</plan>
-        <snapshot>418831fc8398c3503a6114d0deaad349</snapshot>
+        <snapshot>33bf038983d087503a6114d0deaad38e</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:49:20</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>24212124839843503a6114d0deaad3d7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:10:00</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:36</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -1999,7 +1999,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0c21ede0839843503a6114d0deaad3bf</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -2007,7 +2007,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:58</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:34</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_step_ext_output action="INSERT_OR_UPDATE">
@@ -2134,10 +2134,10 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:49:18</sys_created_on>
         <sys_id>4c21ede0839843503a6114d0deaad38c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-13 19:49:18</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:34</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4c21ede0839843503a6114d0deaad38c"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2355,9 +2355,9 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:49:18</sys_created_on>
         <sys_id>0821ede0839843503a6114d0deaad3b1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-13 19:49:18</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:34</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129</table>
         <value>{"type":"ADV_NV","value":[{"name":"apikey","value":"{{step[a0e8dc29-ee49-42f7-8f20-546654088705].apikey}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"t","value":"{{action.title}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"type","value":"{{action.type}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"y","value":"{{action.year}}","attributes":{"omit_if_empty":false,"mandatory":false}},{"name":"plot","value":"{{step[a0e8dc29-ee49-42f7-8f20-546654088705].plot}}","attributes":{"omit_if_empty":false,"mandatory":false}}]}</value>
     </sys_element_mapping>
@@ -3010,7 +3010,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3c8831fc8398c3503a6114d0deaad32d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -3018,7 +3018,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:58</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:35</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
     <sys_hub_action_output action="INSERT_OR_UPDATE">
@@ -3186,14 +3186,14 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-13 19:49:19</sys_created_on>
         <sys_id>1421ede0839843503a6114d0deaad3fa</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:58</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3306,7 +3306,7 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-04-13 19:49:19</sys_updated_on>
     </sys_hub_action_status_metadata>
-    <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=dc212124839843503a6114d0deaad30d^sys_idNOT IN0d8831fc8398c3503a6114d0deaad347,418831fc8398c3503a6114d0deaad347"/>
+    <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=dc212124839843503a6114d0deaad30d^sys_idNOT INb3bf038983d087503a6114d0deaad38c,ffbf038983d087503a6114d0deaad38b"/>
     <sys_hub_status_condition action="INSERT_OR_UPDATE">
         <action_status_metadata_id display_value="Created 13/04/2026 16:49:19">dc212124839843503a6114d0deaad30d</action_status_metadata_id>
         <condition>{{step[f7877355-55f0-4ea4-b1c6-54dae7c56e1b].__step_status__.code}}=1</condition>
@@ -3315,11 +3315,11 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <order>2</order>
         <status>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":"400"}},"message":{"$cv":{"$c":"java.lang.String","$v":"Integration Error: Check the OMDb URL Resource"}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</status>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-14 16:09:58</sys_created_on>
-        <sys_id>0d8831fc8398c3503a6114d0deaad347</sys_id>
+        <sys_created_on>2026-04-15 17:09:35</sys_created_on>
+        <sys_id>b3bf038983d087503a6114d0deaad38c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:58</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:35</sys_updated_on>
     </sys_hub_status_condition>
     <sys_hub_status_condition action="INSERT_OR_UPDATE">
         <action_status_metadata_id display_value="Created 13/04/2026 16:49:19">dc212124839843503a6114d0deaad30d</action_status_metadata_id>
@@ -3329,11 +3329,11 @@ outputs.endpoint = gs.getProperty("x_1974925_nowflix.integration_endpoint", "");
         <order>1</order>
         <status>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":"404"}},"message":{"$cv":{"$c":"java.lang.String","$v":"Integration Error: Check the OMDb URL"}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</status>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-04-14 16:09:58</sys_created_on>
-        <sys_id>418831fc8398c3503a6114d0deaad347</sys_id>
+        <sys_created_on>2026-04-15 17:09:35</sys_created_on>
+        <sys_id>ffbf038983d087503a6114d0deaad38b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-14 16:09:58</sys_updated_on>
+        <sys_updated_on>2026-04-15 17:09:35</sys_updated_on>
     </sys_hub_status_condition>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>type</element>

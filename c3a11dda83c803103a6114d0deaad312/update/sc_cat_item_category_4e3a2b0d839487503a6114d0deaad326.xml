@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Media Suggestion">6d99af89839487503a6114d0deaad3fe</sc_cat_item>
+        <sc_category display_value="Nowflix">3bfec7be834447103a6114d0deaad340</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-15 19:05:14</sys_created_on>
+        <sys_id>4e3a2b0d839487503a6114d0deaad326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nowflix.Media Suggestion</sys_name>
+        <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+        <sys_update_name>sc_cat_item_category_4e3a2b0d839487503a6114d0deaad326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-15 19:05:14</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
