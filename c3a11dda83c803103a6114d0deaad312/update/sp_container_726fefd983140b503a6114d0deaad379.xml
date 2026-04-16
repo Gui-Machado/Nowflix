@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>page movie list - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="page_movie_list">ed6fa7d183540b503a6114d0deaad347</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 14:06:26</sys_created_on>
+        <sys_id>726fefd983140b503a6114d0deaad379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>page movie list - Container 1</sys_name>
+        <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+        <sys_update_name>sp_container_726fefd983140b503a6114d0deaad379</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 14:06:26</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

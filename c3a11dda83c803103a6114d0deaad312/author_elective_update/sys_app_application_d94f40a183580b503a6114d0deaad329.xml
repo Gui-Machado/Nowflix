@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>60</order>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 16:25:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d94f40a183580b503a6114d0deaad329</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Integration Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+        <sys_update_name>sys_app_application_d94f40a183580b503a6114d0deaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 16:27:13</sys_updated_on>
+        <title>Integration Administration</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</application>
+        <file_path/>
+        <instance_id>6b01c69a1baa0ed0c8432f8dee4bcb54</instance_id>
+        <instance_name>dev273945</instance_name>
+        <name>sys_app_application_d94f40a183580b503a6114d0deaad329</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>60</order><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-16 16:25:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d94f40a183580b503a6114d0deaad329</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Integration Administration</sys_name><sys_overrides/><sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package><sys_policy/><sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope><sys_update_name>sys_app_application_d94f40a183580b503a6114d0deaad329</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-16 16:27:13</sys_updated_on><title>Integration Administration</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>594095974</payload_hash>
+        <record_name>Integration Administration</record_name>
+        <reverted_from/>
+        <source>3c28d9d6830c03103a6114d0deaad392</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 16:27:13</sys_created_on>
+        <sys_id>cdaf04e183580b503a6114d0deaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d971e39210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 16:27:13</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>4daf04e1ef580b50f8686ef50830be84</update_guid>
+        <update_guid_history>4daf04e1ef580b50f8686ef50830be84:594095974,3b5f80e110580b5060258074700a80d6:1615550008,165f4ca166580b50ae80d2c2d8305243:1136602489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Integration Administration">9e1010a183580b503a6114d0deaad3fc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-16 16:29:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>8ac5956701ee4e819bfc36ddbab056d1</sys_id>
+        <sys_metadata>d94f40a183580b503a6114d0deaad329</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Integration Administration</sys_name>
+        <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+        <sys_scope_delete display_value="">1465e6514d9a47758bad17fac064ea29</sys_scope_delete>
+        <sys_update_name>sys_app_application_d94f40a183580b503a6114d0deaad329</sys_update_name>
+        <sys_update_version display_value="sys_app_application_d94f40a183580b503a6114d0deaad329">cdaf04e183580b503a6114d0deaad385</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-16 16:29:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
