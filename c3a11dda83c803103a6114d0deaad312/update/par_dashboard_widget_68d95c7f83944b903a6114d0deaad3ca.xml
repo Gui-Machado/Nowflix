@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">8ce53be783904b903a6114d0deaad3c5</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1974925_nowflix_media","columnPreferenceKey":"","fixedQuery":"type=movie^state=3","followFilters":true,"listTitle":"Top 5 Movies","columns":"title,average_rating","maxColumns":2,"query":"active=true^ORDERBYDESCaverage_rating","groupByField":"","limit":5,"hideViewAll":true,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":true,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":true,"hideLastRefreshedText":true,"hideRefreshButton":true,"hideInlineEditing":false,"isDashboard":true,"id":"hideRefreshButton","value":true,"noDebounce":true,"propLabel":"Hide option to refresh"}</component_props>
+        <h>16</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 16:58:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>68d95c7f83944b903a6114d0deaad3ca</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1974925_nowflix">c3a11dda83c803103a6114d0deaad312</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">c3a11dda83c803103a6114d0deaad312</sys_scope>
+        <sys_update_name>par_dashboard_widget_68d95c7f83944b903a6114d0deaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:02:31</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>34</x>
+        <y>15</y>
+    </par_dashboard_widget>
+</record_update>
